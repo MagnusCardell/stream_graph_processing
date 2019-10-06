@@ -1,2 +1,9 @@
 *.class
 *.log
+*.xml
+*.idea
+*.cache
+generator/project
+generator/target
+sparkstreaming/project
+sparkstreaming/target
